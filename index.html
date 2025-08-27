@@ -127,11 +127,11 @@
             <div class="interface">
                 <h2 class="titulo">FALE <span>COMIGO.</span></h2>
 
-                <form action="">
-                    <input type="text" name="" id="" placeholder="Seu nome:" required>
-                    <input type="text" name="" id="" placeholder="Seu email:" required>
-                    <input type="text" name="" id="" placeholder="Seu Celular:">
-                    <textarea name="" id="" placeholder="Sua mensagem:" req]></textarea>
+                <form method="post" action="back-end/enviar.php">
+                    <input type="text" name="nome" id="nome" placeholder="Seu nome:" required>
+                    <input type="text" name="email" id="email" placeholder="Seu email:" required>
+                    <input type="text" name="telefone" id="telefone" placeholder="Seu Celular:">
+                    <textarea name="areatexto" id="areatexto" placeholder="Sua mensagem:" required></textarea>
                     <div class="btn-enviar"><input type="submit" value="Enviar!"></div>
                     
                 </form>
