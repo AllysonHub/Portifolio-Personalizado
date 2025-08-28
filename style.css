@@ -471,7 +471,7 @@ footer .line-footer p a {
     /* mostra botão sanduíche */
     .btn-abrir-menu {
         display: block;
-        z-index: 100000;
+        z-index: 99999;
     }
 
     .sobre .flex {
@@ -588,5 +588,5 @@ footer .line-footer p a {
     .btn-abrir-menu {
         display: block !important;
         cursor: pointer;
-    }
+    }*/
 }
