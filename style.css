@@ -463,6 +463,11 @@ footer .line-footer p a {
         justify-content: space-between;
     }
 
+    .imagen-logo {
+        width: 140px;
+        margin: 6% 4%;
+    }
+
     .menu-desktop,
     .header-btn,
     .topo-do-site .btn-contato {
