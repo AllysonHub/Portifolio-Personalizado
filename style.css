@@ -107,7 +107,7 @@ header .btn-abrir-menu {
 }
 
 .imagen-logo {
-    width: 160px;
+    width: 140px;
 }
 
 .imagen-ally {
@@ -526,6 +526,8 @@ footer .line-footer p a {
 
     .topo-do-site .topo-site img {
         width: 100%;
+        height: 100%;
+
     }
 
     /* ESTILOS DAS ESPECIALIDADES */
