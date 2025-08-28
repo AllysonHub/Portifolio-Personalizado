@@ -147,7 +147,7 @@ header .btn-abrir-menu {
 
 .menu-mobile .btn-fechar i {
     color: #751dd9;
-    font-size: 45px;
+    font-size: 65px;
 }
 
 .menu-mobile nav ul {
@@ -156,7 +156,7 @@ header .btn-abrir-menu {
 
 .menu-mobile nav ul li a {
     color: #fff;
-    font-size: 60px;
+    font-size: 55px;
     font-weight: 400;
     padding: 20px 4%;
     display: block;
