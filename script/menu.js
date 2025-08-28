@@ -13,3 +13,6 @@ menu.addEventListener('click', ()=> {
 overlay.addEventListener('click', ()=> {
     menu.classList.remove('abrir-menu')
 })
+
+// Get all anchor links that start with '#'
+const anchorLinks = document.querySelectorAll('a[href^="#"]');
